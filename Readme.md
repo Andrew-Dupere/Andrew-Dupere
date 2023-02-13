@@ -1,9 +1,9 @@
 Hello!
 
 - Proficient in Python and SQL.
-- Currently taking courses on Data Science, Machine Learning and JavaScript. 
+- Currently enrolled in the Coding Temple software engineering bootcamp. 
 - My most recent project is the LinkedIn Jobs Web Scraper. 
-- My next project will be a stock options screener. 
+
 
 
 
