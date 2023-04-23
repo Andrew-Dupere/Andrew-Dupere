@@ -1,5 +1,6 @@
 Andrew Dupere
 
+![Codewars](https://github.r2v.ch/codewars?user=AndrewDupere&stroke=blue)
 
 
 
