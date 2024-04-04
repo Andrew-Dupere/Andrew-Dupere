@@ -1,2 +1,2 @@
 Master of Automation and Utilizing Language Models to Accelerate Production
-[![Leetcode Stats](https://leetcard.jacoblin.cool/leetcode?username=AndrewDupere)](https://leetcode.com/AndrewDupere/)
+[![Leetcode Stats](https://leetcard.AndrewDupere.cool/leetcode?username=AndrewDupere)](https://leetcode.com/AndrewDupere/)
