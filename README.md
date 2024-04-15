@@ -4,6 +4,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=FCC624&logoWidth=40&labelFontSize=16)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white&labelColor=4479A1&logoWidth=40&labelFontSize=16)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032&logoWidth=40&labelFontSize=16)
+
+
 ![WSL](https://img.shields.io/badge/-WSL-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=0078D6&logoWidth=40&labelFontSize=16)
 ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=windows-terminal&logoColor=white&labelColor=4EAA25&logoWidth=40&labelFontSize=16)
 ![YAML](https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white&labelColor=000000&logoWidth=40&labelFontSize=16)
