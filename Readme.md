@@ -1,1 +1,1 @@
-![](https://leetcard.AndrewDupere.cool/Andrew-Dupere?theme=light,unicorn)
+![Leetcode Stats](https://leetcard.AndrewDupere.cool/JacobLinCool)
