@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.AndrewDupere.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere)
