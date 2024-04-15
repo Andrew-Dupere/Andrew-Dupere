@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere?theme=dark)
