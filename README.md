@@ -18,10 +18,12 @@
 [![**Pandas**](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=150458&labelFontSize=18&labelFontWeight=bolder)](https://pandas.pydata.org/)
 [![**Jupyter Notebook**](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=F37626&labelFontSize=18&labelFontWeight=bolder)](https://jupyter.org/)
 
-
-
-
-
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere?theme=dark)
 
+#### Projects include: 
+- Single-Page WebApps
+- Web Scraping Bots
+- Social Media Bots
+- Trading Algorithms
+- IAC Configuration Files
+- DevOps Pipelines 
