@@ -1,4 +1,5 @@
 # Andrew Dupere
+
 ### Master of automation, scripting and leveraging AI to accelerate production
 
 [![**Python**](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB&labelFontSize=18&labelFontWeight=bolder)](https://www.python.org/)
