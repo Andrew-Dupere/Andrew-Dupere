@@ -26,4 +26,6 @@
 - Social Media Bots
 - Trading Algorithms
 - IAC Configuration Files
-- DevOps Pipelines 
+- DevOps Pipelines
+
+Repositories related to client and business projects are not publicly available due to confidentiality agreements and privacy considerations.
