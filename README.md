@@ -20,7 +20,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere?theme=dark)
 
-https://akinosconsulting.com/
+[**Akinos Consulting**](akinosconsulting.com)
+
 
 #### Projects include: 
 - Single-Page WebApps
