@@ -1,5 +1,7 @@
 # Andrew Dupere
 
+[**Akinos Consulting**](akinosconsulting.com)
+
 ### Master of automation, scripting and leveraging AI to accelerate production
 
 [![**Python**](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB&labelFontSize=18&labelFontWeight=bolder)](https://www.python.org/)
@@ -20,7 +22,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere?theme=dark)
 
-[**Akinos Consulting**](akinosconsulting.com)
+
 
 
 #### Projects include: 
