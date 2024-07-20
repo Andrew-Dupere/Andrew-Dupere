@@ -20,6 +20,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndrewDupere?theme=dark)
 
+https://akinosconsulting.com/
+
 #### Projects include: 
 - Single-Page WebApps
 - Web Scraping Bots
