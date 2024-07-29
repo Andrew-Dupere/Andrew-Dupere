@@ -1,6 +1,6 @@
 # Andrew Dupere
 
-[**Akinos Consulting**](akinosconsulting.com)
+[**Akinos Consulting**](https://www.akinosconsulting.com)
 
 ### Master of automation, scripting and leveraging AI to accelerate production
 
